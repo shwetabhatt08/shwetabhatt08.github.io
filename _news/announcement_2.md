@@ -2,7 +2,7 @@
 layout: post
 title: Devfest Bangalore
 date: 2025-12-06 16:11:00-0400
-inline: false
+inline: true
 related_posts: false
 ---
 Invited as Speaker for AI/ML track at [Devfest, Bangalore](https://konfhub.com/devfestblr25)
