@@ -443,12 +443,10 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
-          section: "News",},{id: "news-devfest-bangalore",
-          title: 'Devfest Bangalore',
+          section: "News",},{id: "news-invited-as-speaker-for-ai-ml-track-at-devfest-bangalore-announcements-and-news-can-be-much-longer-than-just-quick-inline-posts-in-fact-they-can-have-all-the-features-available-for-the-standard-blog-posts-see-below-jean-shorts-raw-denim-vice-normcore-art-party-high-life-pbr-skateboard-stumptown-vinyl-kitsch-four-loko-meh-8-bit-tousled-banh-mi-tilde-forage-schlitz-dreamcatcher-twee-3-wolf-moon-chambray-asymmetrical-paleo-salvia-sartorial-umami-four-loko-master-cleanse-drinking-vinegar-brunch-pinterest-diy-authentic-schlitz-hoodie-intelligentsia-butcher-trust-fund-brunch-shabby-chic-kickstarter-forage-flexitarian-direct-trade-cold-pressed-meggings-stumptown-plaid-pop-up-taxidermy-hoodie-xoxo-fingerstache-scenester-echo-park-plaid-ugh-wes-anderson-freegan-pug-selvage-fanny-pack-leggings-pickled-food-truck-diy-irony-banksy-hipster-list-brunch-fixie-raybans-messenger-bag-hoodie-thundercats-retro-tote-bag-8-bit-godard-craft-beer-gastropub-truffaut-tumblr-taxidermy-raw-denim-kickstarter-sartorial-dreamcatcher-quinoa-chambray-slow-carb-salvia-readymade-bicycle-rights-90-s-yr-typewriter-selfies-letterpress-cardigan-vegan-pug-heirloom-high-life-vinyl-swag-single-origin-coffee-four-dollar-toast-taxidermy-reprehenderit-fap-distillery-master-cleanse-locavore-est-anim-sapiente-leggings-brooklyn-ea-thundercats-locavore-excepteur-veniam-eiusmod-raw-denim-truffaut-schlitz-migas-sapiente-portland-vhs-twee-bushwick-marfa-typewriter-retro-id-keytar-we-do-not-grow-absolutely-chronologically-we-grow-sometimes-in-one-dimension-and-not-in-another-unevenly-we-grow-partially-we-are-relative-we-are-mature-in-one-realm-childish-in-another-anais-nin-fap-aliqua-qui-scenester-pug-echo-park-polaroid-irony-shabby-chic-ex-cardigan-church-key-odd-future-accusamus-blog-stumptown-sartorial-squid-gastropub-duis-aesthetic-truffaut-vero-pinterest-tilde-twee-odio-mumblecore-jean-shorts-lumbersexual",
+          title: 'Invited as Speaker for AI/ML track at Devfest, Bangalore Announcements and news can...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-invited-as-a-chief-guest-and-jury-member-for-crack-a-thon-at-presidency-university-bangalore",
+          section: "News",},{id: "news-invited-as-a-chief-guest-and-jury-member-for-crack-a-thon-at-presidency-university-bangalore",
           title: 'Invited as a Chief Guest and Jury Member for Crack-a-thon at Presidency University,...',
           description: "",
           section: "News",},{id: "projects-project-1",
