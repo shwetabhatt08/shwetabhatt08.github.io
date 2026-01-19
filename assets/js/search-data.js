@@ -14,7 +14,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
+            window.location.href = "https://medium.com/@shweta_bhatt/index.html";
           },
         },{id: "nav-publications",
           title: "publications",
