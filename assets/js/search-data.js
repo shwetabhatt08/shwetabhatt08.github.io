@@ -448,8 +448,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-invited-as-a-chief-guest-and-judge-for-crack-a-thon-at-presidency-university-bangalore",
-          title: 'Invited as a Chief Guest and Judge for Crack-a-thon at Presidency University, Bangalore...',
+            },},{id: "news-invited-as-a-chief-guest-and-jury-member-for-crack-a-thon-at-presidency-university-bangalore",
+          title: 'Invited as a Chief Guest and Jury Member for Crack-a-thon at Presidency University,...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
