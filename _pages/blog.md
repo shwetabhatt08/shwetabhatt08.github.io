@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /blog/
+permalink: https://medium.com/@shweta_bhatt
 title: blog
 nav: true
 nav_order: 1
