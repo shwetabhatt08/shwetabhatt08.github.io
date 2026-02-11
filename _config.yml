@@ -13,7 +13,7 @@ title                    : "Shweta Bhatt"
 title_separator          : "-"
 name                     : &name "Shweta Bhatt"
 description              : &description "Principal Applied Scientist | Applied Science Lead | Google Developer Expert"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://shwetabhatt08.github.io",
+url                      : https://shwetabhatt08.github.io # The base hostname & protocol for your site e.g. "https://shwetabhatt08.github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Principal Applied Scientist | Google Developer Expert"
   location         : "Bangalore, India"
-  employer         : ""
+  employer         : #
   uri              : # URL
   email            : "shwetabhatt08@gmail.com" 
 
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/shwetabhatt08"
+  github           : "shwetabhatt08"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://linkedin.com/in/shwetabhatt08"
+  linkedin         : "shwetabhatt08"
   mastodon         : # URL
   medium           : "https://medium.com/@shweta_bhatt"
   pinterest        : # Username
@@ -74,7 +74,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "https://twitter.com/shweta_bhatt8"
+  twitter          : "shweta_bhatt8"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
