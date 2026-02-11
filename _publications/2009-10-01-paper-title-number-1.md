@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Illuminating an ecosystem of partisan websites"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2018-illuminating-an-ecosystem-of-partisan-websites
+excerpt: #
+date: 2018
+venue: 'WWW 2018'
+slidesurl: #
+paperurl: 'https://shwetabhatt08.github.io/files/www-2018.pdf'
+bibtexurl: #
+citation: #
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper aims to shed light on alternative news media ecosystems that are believed to have influenced opinions and beliefs by false and/or biased news reporting during the 2016 US Presidential Elections. We examine a large, professionally curated list of 668 hyper-partisan websites and their corresponding Facebook pages, and identify key characteristics that mediate the traffic flow within this ecosystem. We uncover a pattern of new websites being established in the run up to the elections, and abandoned after. Such websites form an ecosystem, creating links from one website to another, and by 'liking' each others' Facebook pages. These practices are highly effective in directing user traffic internally within the ecosystem in a highly partisan manner, with right-leaning sites linking to and liking other right-leaning sites and similarly left-leaning sites linking to other sites on the left, thus forming a filter bubble amongst news producers similar to the filter bubble which has been widely observed among consumers of partisan news. Whereas there is activity along both left- and right-leaning sites, right-leaning sites are more evolved, accounting for a disproportionate number of abandoned websites and partisan internal links. We also examine demographic characteristics of consumers of hyper partisan news and find that some of the more populous demographic groups in the US tend to be consumers of more right-leaning sites.
